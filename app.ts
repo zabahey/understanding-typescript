@@ -64,3 +64,14 @@ let myMultiply: (a: number, b: number) => number
 // myMultiply()
 myMultiply = multiply
 console.log(myMultiply(5, 2))
+
+// objects
+let userData: { name: string; age: number } = {
+	name: 'Max',
+	age: 33
+}
+
+// userData = {
+// 	a: 'hello',
+// 	b: 22
+// }
