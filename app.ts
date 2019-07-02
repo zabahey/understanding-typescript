@@ -60,7 +60,7 @@ console.log(multiply(2, 10))
 // function types
 // like delegate in C#
 let myMultiply: (a: number, b: number) => number
-myMultiply = sayHello
-myMultiply()
+// myMultiply = sayHello
+// myMultiply()
 myMultiply = multiply
 console.log(myMultiply(5, 2))
