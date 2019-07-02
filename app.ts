@@ -13,3 +13,7 @@ let hasHobiies: boolean = true
 let myRealAge: number
 myRealAge = 33
 // myRealAge = '33'
+
+// array
+let hobbies: any[] = ['Cooking', 'Sports']
+hobbies = [100]
