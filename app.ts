@@ -17,3 +17,7 @@ myRealAge = 33
 // array
 let hobbies: any[] = ['Cooking', 'Sports']
 hobbies = [100]
+
+// tuples
+// order important for tuple
+let address: [string, number] = ['Superstreet', 99]
