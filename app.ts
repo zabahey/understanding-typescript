@@ -51,8 +51,8 @@ function sayHello(): void {
 }
 
 // argument types
-function multiple(value1: number, value2: number): number {
+function multiply(value1: number, value2: number): number {
 	return value1 * value2
 }
 
-console.log(multiple(2, 10))
+console.log(multiply(2, 10))
