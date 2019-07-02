@@ -21,3 +21,13 @@ hobbies = [100]
 // tuples
 // order important for tuple
 let address: [string, number] = ['Superstreet', 99]
+
+// enum
+enum Color {
+	Gray,
+	Green = 100,
+	Blue
+}
+
+let myColor: Color = Color.Blue
+console.log(myColor)
